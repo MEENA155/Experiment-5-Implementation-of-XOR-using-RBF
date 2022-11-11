@@ -40,8 +40,8 @@ PROGRAM:
 
 ## PROGRAM:
 ~~~
-Devloped by:Manoj M
-Reg no:212221240027
+Devloped by: Meena .S
+Reg no:212221240028
 
 import numpy as np
 import matplotlib.pyplot as plt
@@ -118,10 +118,8 @@ print(f"Input:{np.array([1, 0])}, Predicted: {predict_matrix(np.array([1, 0]), w
 print(f"Input:{np.array([1, 1])}, Predicted: {predict_matrix(np.array([1, 1]), w)}")
 ~~~
 ## OUTPUT :
-![1](https://user-images.githubusercontent.com/94588708/201338250-64d43dc1-f09e-4033-a059-da4319eb8510.png)
-   
-   
-![2](https://user-images.githubusercontent.com/94588708/201338264-edd29d6f-ed51-4f73-95a7-986eeba4e497.png)
+![image](https://user-images.githubusercontent.com/94677128/201343046-d3866d92-62b5-4ee5-8efb-c9c6c02aead8.png)
+![image](https://user-images.githubusercontent.com/94677128/201343090-60e03530-8185-4b98-973d-c51a22c2f105.png)
 
 
 ## RESULT:
